@@ -14,8 +14,7 @@ This project find other users and communicate with they for building one big vir
 ## What is it for?
 That project bulds infrastructure (network) for projects. It can be some messangers which want to save independence of transporting a data or new private web like Tor. There is simple C/C++ lib for building your own broject based on TGN - [libgarlic](https://github.com/The-Garlic-Network/libgarlic). The Garlic Network is intended for engineers and enthusiasts looking to build new safe project based on TGN. 
 
-Licensing
-=========
+## Licensing
 The Garlic Network is licensed under the MIT. See
 [LICENSE](https://github.com/The-Garlic-Network/The-Garlic-Network/blob/master/LICENSE) for the full
 license text.
