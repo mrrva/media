@@ -1,13 +1,13 @@
 ![logo](https://github.com/mrrva/media/blob/master/github_logo.png "The Garlic Network")
 
-The Garlic Network (TGN) is an open-source decentralized peer-to-peer network. This component is service for servers which work under Linux.
+The Garlic Network (TGN) is an open-source decentralized peer-to-peer network. This is node service for servers with white IP which work under Linux.
 
 ## What does it do?
-This project find other users and communicate with they for building one big virtual network. It means that project makes private network inside the internet.
+This project find other users and communicate with them for building one big virtual network. It means the project makes private network inside the internet.
 
 ## Feature:
-- There aren't central servers. Each node of network is independent router.
 - It helps to send anonymous encrypted packeges to any user of the network.
+- There aren't central servers. Each node of network is independent router.
 - Fully anonymity. Project uses garlic method of roating.
 - Own protocol of transporting.
 
